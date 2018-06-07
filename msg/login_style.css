@@ -1,0 +1,82 @@
+form
+{
+    border: 2px solid white;
+}
+input[type=text],input[type=password]
+{
+    width: 100%;
+    padding: 10px 15px;
+    margin: 5px 0px;
+    border: 1px solid black;
+    box-sizing: border-box;
+}
+button
+{
+    background-color: green;
+    border: none;
+    color: white;
+    padding: 10px 10px;
+    border-radius: 8px;
+
+}
+button:hover
+{
+    background-color: blue;
+}
+.container
+{
+    padding: 15px;
+}
+li
+{
+    float:left;
+    position: relative;
+     
+    margin-left: 50px;
+    margin-bottom: 25px;
+}
+ul.demo
+{
+    list-style-type: none;
+    margin-bottom: 10px;
+}
+a
+{
+    color: rgb(121,0,300);
+    font-weight: bold;
+    text-decoration: none; 
+
+
+}
+a:hover
+{
+    color: blue;
+}
+img
+{
+    margin-top: 10px;
+    max-width: 100%;
+    border: 1px solid grey;
+    border-radius: 50%;
+    margin-left: 390px;
+}
+.me
+{
+    border: 2px solid black;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 90px;
+    
+}
+input[type=radio]
+{
+    margin-right: 0px; 
+}
+.hi
+{
+    margin-left:4px;
+}
+body
+{
+  background-color: rgb(100,200,212);   
+}

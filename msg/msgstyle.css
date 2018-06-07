@@ -1,0 +1,53 @@
+.id1 {
+	margin-top: 2px;
+	border: 2px solid rgb(77,255,77);
+    min-height: 40px;
+    background-color: rgb(77,255,77);
+}
+.id
+{
+	margin-top: 2px;
+	
+	max-height: 550px;
+	display: block;
+	box-sizing: border-box;
+	overflow :scroll;
+	background-image: url("download.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:100%; 
+    max-width:500px; 
+   
+}
+::-webkit-scrollbar { 
+    display: none; 
+}
+.containe
+{
+	max-height: 500px;
+	max-width: 500px;
+	margin-left: 400px;
+	background-color: rgb(77,255,77);
+}
+#fir1
+{
+	margin-top: 3px;
+	position: absolute;
+	float: left;
+margin-right:  0px;
+}
+#fir
+{
+	margin-top: 3px;
+	float: right;
+	clear: left;
+
+}
+input[type=text]
+{
+	width: 60%;
+}
+.boom
+{
+	padding: 10px;
+}
